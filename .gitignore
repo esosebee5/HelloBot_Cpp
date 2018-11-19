@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HelloBot_Cpp/v15/.suo
+/.vs/HelloBot_Cpp/v15/Browse.VC.db
+/.vs/HelloBot_Cpp/v15/Browse.VC.opendb
+/HelloBot_Cpp/x64/Debug/HelloBot_Cpp.tlog
+/HelloBot_Cpp/x64/Debug
+/x64/Debug
+/.vs/HelloBot_Cpp/v15/ipch
